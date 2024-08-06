@@ -23,7 +23,7 @@ public class Main {
         }catch (RuntimeException e){
             System.out.println("Erro ao buscar o endereço: " + e.getMessage());
         }finally {
-            System.out.println("\nFim da execução do programa");
+            System.out.println("\nFim da execução deste programa");
         }
 
 
